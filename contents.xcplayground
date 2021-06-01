@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playground requires-full-environment="false" version="6.0" target-platform="ios">
+    <pages>
+        <page name="Welcome"/>
+        <page name="The Internet Explained"/>
+        <page name="Sockets"/>
+        <page name="HTTP Server"/>
+        <page name="Thank you"/>
+    </pages>
+</playground>
